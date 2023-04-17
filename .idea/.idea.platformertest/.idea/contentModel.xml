@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\fired\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\fired\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_platformertest.-2103939752.00" t="ExcludeRecursive" />
+    <e p="C:\Users\fired\AppData\Roaming\JetBrains\Rider2020.2\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\fired\Desktop\Unity Game\platformertest" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="2D Casual UI" t="Include">
+          <e p="Original Artwork" t="Include" />
+          <e p="Sprite" t="Include" />
+        </e>
+        <e p="Animation" t="Include" />
+        <e p="CasualGameSounds" t="Include" />
+        <e p="CurvedTextMeshPro" t="Include">
+          <e p="Scenes" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="TextProOnACircle.cs" t="Include" />
+            <e p="TextProOnACurve.cs" t="Include" />
+            <e p="TextProOnAExp.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Editor" t="Include">
+          <e p="MediationAdapterDependencies.xml" t="Include" />
+          <e p="Platform-Dependencies" t="Include">
+            <e p="Android" t="Include">
+              <e p="Checksum.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Mobile Game GUI Vector Pack" t="Include">
+          <e p="Font" t="Include">
+            <e p="Signika" t="Include" />
+          </e>
+          <e p="Prefab" t="Include">
+            <e p="BackGround" t="Include" />
+            <e p="Button" t="Include">
+              <e p="additional buttons" t="Include" />
+              <e p="STXC" t="Include" />
+              <e p="triangle" t="Include" />
+              <e p="XYAB" t="Include" />
+              <e p="XYAB_Color" t="Include" />
+            </e>
+            <e p="DEMO_window" t="Include" />
+            <e p="Image" t="Include">
+              <e p="blue chips" t="Include" />
+              <e p="blue chips. incline" t="Include" />
+              <e p="dark blue chips" t="Include" />
+              <e p="dark blue chips. incline" t="Include" />
+              <e p="green chips" t="Include" />
+              <e p="green chips. incline" t="Include" />
+              <e p="purple chips" t="Include" />
+              <e p="purple chips. incline" t="Include" />
+              <e p="red chips" t="Include" />
+              <e p="red chips. incline" t="Include" />
+              <e p="yellow chips" t="Include" />
+              <e p="yellow chips. incline" t="Include" />
+            </e>
+          </e>
+          <e p="Scenes" t="Include" />
+          <e p="Sound" t="Include" />
+          <e p="Sprite" t="Include">
+            <e p="Button" t="Include">
+              <e p="additional buttons" t="Include" />
+              <e p="STXC" t="Include" />
+              <e p="triangle" t="Include" />
+              <e p="XYAB" t="Include" />
+              <e p="XYAB_Color" t="Include" />
+            </e>
+            <e p="Icon" t="Include" />
+            <e p="Pic" t="Include">
+              <e p="blue chips" t="Include" />
+              <e p="blue chips. incline" t="Include" />
+              <e p="dark blue chips" t="Include" />
+              <e p="dark blue chips. incline" t="Include" />
+              <e p="green chips" t="Include" />
+              <e p="green chips. incline" t="Include" />
+              <e p="purple chips" t="Include" />
+              <e p="purple chips. incline" t="Include" />
+              <e p="red chips" t="Include" />
+              <e p="red chips. incline" t="Include" />
+              <e p="yellow chips" t="Include" />
+              <e p="yellow chips. incline" t="Include" />
+            </e>
+          </e>
+          <e p="VectorPack" t="Include">
+            <e p="AI" t="Include" />
+            <e p="EPS" t="Include" />
+            <e p="SVG" t="Include" />
+          </e>
+        </e>
+        <e p="Phycisc Material" t="Include" />
+        <e p="PostProcessing" t="Include" />
+        <e p="Prefab" t="Include" />
+        <e p="Scenes" t="Include">
+          <e p="Levels" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Audio" t="Include">
+            <e p="AudioControl.cs" t="Include" />
+            <e p="Player" t="Include">
+              <e p="PlayerAudio.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Enemy" t="Include">
+            <e p="Enemy.cs" t="Include" />
+          </e>
+          <e p="IActions.cs" t="Include" />
+          <e p="Level" t="Include">
+            <e p="LevelsControl.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="Player.cs" t="Include" />
+            <e p="PlayerHealth.cs" t="Include" />
+            <e p="PlayerTouch.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="Game" t="Include">
+              <e p="ButtonGameScene.cs" t="Include" />
+              <e p="PanelLevelOver.cs" t="Include" />
+            </e>
+            <e p="Menu" t="Include">
+              <e p="MenuButton.cs" t="Include" />
+              <e p="SelectionLevel.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Simple 2D Platformer BE2" t="Include">
+          <e p="Sprites" t="Include" />
+        </e>
+        <e p="StreamingAssets" t="Include" />
+        <e p="TextMesh Pro" t="Include">
+          <e p="Documentation" t="Include" />
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="Fonts &amp; Materials" t="Include" />
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Sprite Assets" t="Include" />
+            <e p="Style Sheets" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+            <e p="EmojiOne.json" t="Include" />
+          </e>
+        </e>
+        <e p="Thaleah_PixelFont" t="Include">
+          <e p="Materials" t="Include" />
+        </e>
+        <e p="TileMap" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="platformertest.sln" t="IncludeFlat" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
